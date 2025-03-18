@@ -1,11 +1,11 @@
 {
-  "name": "portfolio",
+  "name": "js_113_serhiilukianenkodev",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/portfolio/",
+    "build": "vite build --base=/js_113_serhiilukianenkodev/",
     "preview": "vite preview"
   },
   "devDependencies": {
